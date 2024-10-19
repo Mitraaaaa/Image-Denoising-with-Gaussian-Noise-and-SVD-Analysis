@@ -1,5 +1,6 @@
 # Image-Denoising-with-Gaussian-Noise-and-SVD-Analysis
 This project focuses on the process of adding Gaussian noise to images and subsequently removing the noise to improve image quality using Singular Value Decomposition (SVD). The primary goal is to simulate real-world conditions where images are often affected by random noise, such as sensor noise or transmission noise. The denoising process helps restore the image by reducing noise while maintaining key details.
+
 <img src="results.png" width="500">
 
 This project implements an image denoising process through the following key steps:
